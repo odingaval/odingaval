@@ -1,10 +1,10 @@
-# 👋 Hi, I'm odinga Valery!
+# 👋 Hi, I'm Odinga Valery!
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning languages such as html,javascript C and C++
+- 🌱 I’m currently learning languages such as html,javascript, C and C++
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 🤔 I’m always open to discussing new project ideas and development opportunities.
 - 💬 Ask me about anything related to programming, I'm happy to help!
