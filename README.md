@@ -18,7 +18,7 @@ Here are some of the languages and tools I work with:
 
 ## 📫 How to Reach Me
 
-- **Email:** odingaval71@mail.com
+- **Email:** odingaval71@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/your-profile)
 - **Twitter:** [@odingaval](https://twitter.com/odingsval
 
