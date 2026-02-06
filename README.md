@@ -1,25 +1,55 @@
-# 👋 Hi, I'm Odinga Valery!
+# 👋 Hi, I’m Odinga Valery
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning.
+I’m a curious developer who learns by building, breaking things, and fixing them again.  
+Currently focused on **backend development, Go, Linux fundamentals, and open-source contribution**.
 
-## 🚀 About Me
+---
 
-- 🌱 I’m currently learning languages such as html,javascript, C and C++
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 🤔 I’m always open to discussing new project ideas and development opportunities.
-- 💬 Ask me about anything related to programming, I'm happy to help!
+## About Me
 
-## 🛠️ Languages and Tools
+- Currently learning **Go**, backend engineering concepts, and system fundamentals
+- Comfortable working in **Linux environments**
+- Learning through **course-based projects** and real-world problem solving
+- Exploring **open-source contribution** (beginner-friendly repos & real fixes)
+- Curious about **Ethereum & Web3**, especially how protocols are designed
+- Open to collaborating on meaningful beginner-to-intermediate projects
 
-Here are some of the languages and tools I work with:
+---
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django
+## Tech Stack
+
+**Languages**
+- Go
+- JavaScript
+- C / C++
+- Python (foundations)
+
+**Backend & Tools**
+- HTTP servers & APIs
+- Git & GitHub
+- Linux (CLI, permissions, processes)
+- Testing & debugging basics
+
+**Currently Exploring**
+- Open-source workflows
+- Ethereum internals & EIPs
+- Writing cleaner, simpler code
+
+---
+
+## What You’ll Find Here
+
+- Practice projects while learning Go and backend concepts
+- Small tools and experiments
+- Learning notes turned into code
+- Open-source forks and contributions
+
+---
 
 ## 📫 How to Reach Me
 
 - **Email:** odingaval71@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/your-profile
-- **Twitter:** [@odingaval](https://twitter.com/odingaval
+- **Twitter:** https://x.com/Odinga_Val
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!
+> “Still learning. Still building. Still shipping.”
