@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Odinga Valery
+# Hi, I’m Odinga Valery
 
 I’m a curious developer who learns by building, breaking things, and fixing them again.  
 Currently focused on **backend development, Go, Linux fundamentals, and open-source contribution**.
@@ -20,8 +20,10 @@ Currently focused on **backend development, Go, Linux fundamentals, and open-sou
 
 **Languages**
 - Go
+- Rust
 - JavaScript
-- C / C++
+- Html & CSS
+- TypeScript
 - Python (foundations)
 
 **Backend & Tools**
