@@ -11,7 +11,7 @@ Currently focused on **backend development, Go, Linux fundamentals, and open-sou
 - Comfortable working in **Linux environments**
 - Learning through **course-based projects** and real-world problem solving
 - Exploring **open-source contribution** (beginner-friendly repos & real fixes)
-- Curious about **Ethereum & Web3**, especially how protocols are designed
+- Curious about **Bitcoin & Web3**, especially how protocols are designed
 - Open to collaborating on meaningful beginner-to-intermediate projects
 
 ---
@@ -34,7 +34,7 @@ Currently focused on **backend development, Go, Linux fundamentals, and open-sou
 
 **Currently Exploring**
 - Open-source workflows
-- Ethereum internals & EIPs
+- Bitcoin internals & BIPs
 - Writing cleaner, simpler code
 
 ---
